@@ -1,0 +1,18 @@
+:root {
+    --ozadje: aquamarine;
+    --barvaTekst: dark green;
+}
+
+body {
+    background-color: var(--ozadje);
+    margin: auto;
+    width: 70%;
+    border: 3px solid green;
+    padding: 20px;
+}
+
+.msg {
+    color: var(--barvaTekst);
+    font-size: large;
+    font-weight: bold;
+}
