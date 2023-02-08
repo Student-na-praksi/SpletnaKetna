@@ -19,7 +19,7 @@ body {
     text-align: center;
 }
 
-.msg .reset {
+.msg {
     color: var(--barvaTekst);
     font-size: 30px;
     font-weight: bold;
